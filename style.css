@@ -7,7 +7,27 @@
 }
 
 body{
-     background:black
+     background:black;
      margin:0px;
-}
-  
+     font-family: "playfair display" ;
+     color: purple;
+     margin: bottom 100px;
+}    
+  header{
+    font-size: 35px;
+    color: pink;
+    border-bottom: 3px solid blueviolet;
+    padding: 20px;
+  }
+  h1{
+    font-size: 35px;
+    color:antiquewhite;
+    border-bottom: 3px solid plum;
+    padding: 20px;
+  }
+  h1{
+    font-size:40px;
+  }
+  .chamada-texto{
+    margin-right:
+  }
